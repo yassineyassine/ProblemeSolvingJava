@@ -38,8 +38,12 @@ class PairWithDifference{
 
         System.out.print(count);*/
 
-        CountUnique cu=new CountUnique();
-        cu.main();
+        //CountUnique cu=new CountUnique();
+        //cu.main();
+
+        String s="A";
+        s.toLowerCase();
+        System.out.println(s);
 
     }
 
